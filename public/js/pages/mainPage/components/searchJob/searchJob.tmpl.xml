@@ -1,0 +1,25 @@
+<fest:template xmlns:fest="http://fest.mail.ru" context_name="items">
+    <div class="header-row-bottom">
+        <div class="header-row-bottom__page">
+            Самый простой способ найти работу
+            <div class="search-job">
+                <p class="main-page__label">Поиск работы для студентов</p>
+                <div class="search-form-header">
+                    <div class="search-job">
+                        <input id="searchJob" class="search-job__input" type="text"
+                               placeholder="Профессия, должность или компания"/>
+                    </div>
+                    <div class="search-place">
+                        <input id="searchPlace" class="search-place__input" type="text" placeholder="Местоположение"/>
+                    </div>
+                    <div id="searchBtn" class="search-btn">
+                        <a href="#">
+                            <i class=" search-btn__a fa fa-search"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</fest:template>
