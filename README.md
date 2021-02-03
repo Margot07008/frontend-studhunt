@@ -28,7 +28,3 @@ npm run start:dev
 * rm -rf dist
 * npm install
 * npm run build
-
-### Ссылки:
-
-- [Доска с задачами](https://trello.com/mvvm2/home)
